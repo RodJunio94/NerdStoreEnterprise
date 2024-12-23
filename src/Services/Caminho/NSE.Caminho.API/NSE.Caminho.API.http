@@ -1,0 +1,6 @@
+@NSE.Caminho.API_HostAddress = http://localhost:5229
+
+GET {{NSE.Caminho.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
